@@ -1,6 +1,6 @@
-Names:  Jesus Gonzalez, Carlos Salinas, Roberto Morales, Ryan Garcia
-Class:  CS 558, Fall 2015
-Assignment 1:  Computer Simulation – Drive-Thru Simulation
+Names:  Jesus Gonzalez
+
+Computer Simulation – Drive-Thru Simulation
 File: README
 
 Files included:  README; Start.java; Simulation.java, driver.txt
@@ -45,7 +45,3 @@ Deficiencies and Bugs:
 Extra features/algorithms/functionality:
 
 • none, apart from extra functions whose purpose is only to print results and states
-
-Lessons Learned:
-
-We have learned that the results in the computer simulation are very useful to analyze data, and also to improve efficiency of a drive-thru business.  Planning is very crucial in developing a program simulation.  Applying software development life cycle is very important when programming.  
